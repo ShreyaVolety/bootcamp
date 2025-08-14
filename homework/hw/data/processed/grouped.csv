@@ -1,0 +1,302 @@
+name,displacement
+amc ambassador brougham,360.0
+amc ambassador dpl,390.0
+amc ambassador sst,304.0
+amc concord,191.5
+amc concord d/l,258.0
+amc concord dl 6,232.0
+amc gremlin,223.75
+amc hornet,223.75
+amc hornet sportabout (sw),258.0
+amc matador,271.2
+amc matador (sw),304.0
+amc pacer,232.0
+amc pacer d/l,258.0
+amc rebel sst,304.0
+amc spirit dl,121.0
+audi 100 ls,107.0
+audi 100ls,114.5
+audi 4000,97.0
+audi 5000,131.0
+audi 5000s (diesel),121.0
+audi fox,98.0
+bmw 2002,121.0
+bmw 320i,121.0
+buick century,231.0
+buick century 350,350.0
+buick century limited,181.0
+buick century luxus (sw),350.0
+buick century special,231.0
+buick electra 225 custom,455.0
+buick estate wagon (sw),402.5
+buick lesabre custom,350.0
+buick opel isuzu deluxe,111.0
+buick regal sport coupe (turbo),231.0
+buick skyhawk,231.0
+buick skylark,191.0
+buick skylark 320,350.0
+buick skylark limited,151.0
+cadillac eldorado,350.0
+cadillac seville,350.0
+capri ii,140.0
+chevroelt chevelle malibu,250.0
+chevrolet bel air,350.0
+chevrolet camaro,151.0
+chevrolet caprice classic,336.6666666666667
+chevrolet cavalier,112.0
+chevrolet cavalier 2-door,112.0
+chevrolet cavalier wagon,112.0
+chevrolet chevelle concours (sw),307.0
+chevrolet chevelle malibu,278.5
+chevrolet chevelle malibu classic,277.5
+chevrolet chevette,94.75
+chevrolet citation,165.66666666666666
+chevrolet concours,250.0
+chevrolet impala,388.5
+chevrolet malibu,275.0
+chevrolet malibu classic (sw),267.0
+chevrolet monte carlo,400.0
+chevrolet monte carlo landau,327.5
+chevrolet monte carlo s,350.0
+chevrolet monza 2+2,262.0
+chevrolet nova,250.0
+chevrolet nova custom,250.0
+chevrolet vega,140.0
+chevrolet vega (sw),140.0
+chevrolet vega 2300,140.0
+chevrolet woody,98.0
+chevy c10,350.0
+chevy c20,307.0
+chevy s-10,119.0
+chrysler cordoba,400.0
+chrysler lebaron medallion,156.0
+chrysler lebaron salon,225.0
+chrysler lebaron town @ country (sw),360.0
+chrysler new yorker brougham,440.0
+chrysler newport royal,400.0
+datsun 1200,72.0
+datsun 200-sx,119.0
+datsun 200sx,119.0
+datsun 210,85.0
+datsun 210 mpg,85.0
+datsun 280-zx,168.0
+datsun 310,86.0
+datsun 310 gx,91.0
+datsun 510,119.0
+datsun 510 (sw),97.0
+datsun 510 hatchback,119.0
+datsun 610,108.0
+datsun 710,101.0
+datsun 810,146.0
+datsun 810 maxima,146.0
+datsun b-210,85.0
+datsun b210,79.0
+datsun b210 gx,85.0
+datsun f-10 hatchback,85.0
+datsun pl510,97.0
+dodge aries se,135.0
+dodge aries wagon (sw),156.0
+dodge aspen,225.0
+dodge aspen 6,225.0
+dodge aspen se,225.0
+dodge challenger se,383.0
+dodge charger 2.2,135.0
+dodge colt,114.66666666666667
+dodge colt (sw),98.0
+dodge colt hardtop,97.5
+dodge colt hatchback custom,98.0
+dodge colt m/m,98.0
+dodge coronet brougham,318.0
+dodge coronet custom,318.0
+dodge coronet custom (sw),318.0
+dodge d100,318.0
+dodge d200,318.0
+dodge dart custom,318.0
+dodge diplomat,318.0
+dodge magnum xe,318.0
+dodge monaco (sw),383.0
+dodge monaco brougham,318.0
+dodge omni,105.0
+dodge rampage,135.0
+dodge st. regis,318.0
+fiat 124 sport coupe,98.0
+fiat 124 tc,116.0
+fiat 124b,88.0
+fiat 128,79.0
+fiat 131,107.0
+fiat strada custom,91.0
+fiat x1.9,79.0
+ford country,400.0
+ford country squire (sw),375.5
+ford escort 2h,98.0
+ford escort 4w,98.0
+ford f108,302.0
+ford f250,360.0
+ford fairmont,140.0
+ford fairmont (auto),200.0
+ford fairmont (man),140.0
+ford fairmont 4,140.0
+ford fairmont futura,140.0
+ford fiesta,98.0
+ford futura,302.0
+ford galaxie 500,377.0
+ford gran torino,318.3333333333333
+ford gran torino (sw),302.0
+ford granada,250.0
+ford granada ghia,250.0
+ford granada gl,200.0
+ford granada l,232.0
+ford ltd,351.0
+ford ltd landau,302.0
+ford maverick,225.0
+ford mustang,250.0
+ford mustang gl,140.0
+ford mustang ii,302.0
+ford mustang ii 2+2,140.0
+ford pinto,139.0
+ford pinto (sw),122.0
+ford pinto runabout,122.0
+ford ranger,120.0
+ford thunderbird,351.0
+ford torino,302.0
+ford torino 500,250.0
+hi 1200d,304.0
+honda accord,107.0
+honda accord cvcc,98.0
+honda accord lx,98.0
+honda civic,100.66666666666667
+honda civic (auto),91.0
+honda civic 1300,81.0
+honda civic 1500 gl,91.0
+honda civic cvcc,91.0
+honda prelude,107.0
+maxda glc deluxe,86.0
+maxda rx3,70.0
+mazda 626,120.0
+mazda glc,86.0
+mazda glc 4,91.0
+mazda glc custom,91.0
+mazda glc custom l,91.0
+mazda glc deluxe,78.0
+mazda rx-4,80.0
+mazda rx-7 gs,70.0
+mazda rx2 coupe,70.0
+mercedes benz 300d,183.0
+mercedes-benz 240d,146.0
+mercedes-benz 280s,168.0
+mercury capri 2000,122.0
+mercury capri v6,155.0
+mercury cougar brougham,302.0
+mercury grand marquis,351.0
+mercury lynx l,98.0
+mercury marquis,429.0
+mercury marquis brougham,429.0
+mercury monarch,250.0
+mercury monarch ghia,302.0
+mercury zephyr,200.0
+mercury zephyr 6,200.0
+nissan stanza xe,120.0
+oldsmobile cutlass ciera (diesel),262.0
+oldsmobile cutlass ls,350.0
+oldsmobile cutlass salon brougham,260.0
+oldsmobile cutlass supreme,260.0
+oldsmobile delta 88 royale,350.0
+oldsmobile omega,350.0
+oldsmobile omega brougham,173.0
+oldsmobile starfire sx,151.0
+oldsmobile vista cruiser,350.0
+opel 1900,116.0
+opel manta,106.5
+peugeot 304,79.0
+peugeot 504,122.75
+peugeot 504 (sw),120.0
+peugeot 505s turbo diesel,141.0
+peugeot 604sl,163.0
+plymouth 'cuda 340,340.0
+plymouth arrow gs,122.0
+plymouth champ,86.0
+plymouth cricket,91.0
+plymouth custom suburb,360.0
+plymouth duster,198.0
+plymouth fury,225.0
+plymouth fury gran sedan,318.0
+plymouth fury iii,358.6666666666667
+plymouth grand fury,318.0
+plymouth horizon,105.0
+plymouth horizon 4,105.0
+plymouth horizon miser,105.0
+plymouth horizon tc3,105.0
+plymouth reliant,135.0
+plymouth sapporo,156.0
+plymouth satellite,318.0
+plymouth satellite custom,225.0
+plymouth satellite custom (sw),318.0
+plymouth satellite sebring,225.0
+plymouth valiant,225.0
+plymouth valiant custom,225.0
+plymouth volare,225.0
+plymouth volare custom,225.0
+plymouth volare premier v8,318.0
+pontiac astro,140.0
+pontiac catalina,418.3333333333333
+pontiac catalina brougham,400.0
+pontiac firebird,250.0
+pontiac grand prix,400.0
+pontiac grand prix lj,400.0
+pontiac j2000 se hatchback,112.0
+pontiac lemans v6,231.0
+pontiac phoenix,151.0
+pontiac phoenix lj,231.0
+pontiac safari (sw),400.0
+pontiac sunbird coupe,151.0
+pontiac ventura sj,250.0
+renault 12 (sw),96.0
+renault 12tl,101.0
+renault 5 gtl,79.0
+saab 99e,104.0
+saab 99gle,121.0
+saab 99le,121.0
+subaru,102.5
+subaru dl,97.0
+toyota carina,97.0
+toyota celica gt,144.0
+toyota celica gt liftback,134.0
+toyota corolla,103.6
+toyota corolla 1200,71.0
+toyota corolla 1600 (sw),97.0
+toyota corolla liftback,97.0
+toyota corolla tercel,89.0
+toyota corona,114.25
+toyota corona hardtop,113.0
+toyota corona liftback,134.0
+toyota corona mark ii,113.0
+toyota cressida,168.0
+toyota mark ii,156.0
+toyota starlet,79.0
+toyota tercel,89.0
+toyouta corona mark ii (sw),120.0
+triumph tr7 coupe,122.0
+vokswagen rabbit,89.0
+volkswagen 1131 deluxe sedan,97.0
+volkswagen 411 (sw),121.0
+volkswagen dasher,88.66666666666667
+volkswagen jetta,105.0
+volkswagen model 111,97.0
+volkswagen rabbit,93.5
+volkswagen rabbit custom,97.0
+volkswagen rabbit custom diesel,90.0
+volkswagen rabbit l,105.0
+volkswagen scirocco,89.0
+volkswagen super beetle,97.0
+volkswagen type 3,97.0
+volvo 144ea,121.0
+volvo 145e (sw),121.0
+volvo 244dl,121.0
+volvo 245,130.0
+volvo 264gl,163.0
+volvo diesel,145.0
+vw dasher (diesel),90.0
+vw pickup,97.0
+vw rabbit,94.0
+vw rabbit c (diesel),90.0
+vw rabbit custom,89.0
