@@ -7,6 +7,8 @@ GitHub.
 
 - **data ingestion** → Data is pulled from the Financial Modeling Prep API, with yfinance as fallback and cleaned with functions in the utils library
 
+- **data storage** → Data is cleaned and stored in the raw/processed folders of the data folder, and is preprocessed using functions in the cleaning library
+
 ## Homework Folder Rules
 - Each homework will be in its own subfolder (`homework0`, `homework1`, etc.)
 - Include all required files for grading.
